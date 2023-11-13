@@ -88,14 +88,21 @@ nav ul li a:hover, nav ul li a:active {
 footer {
 	text-align: center;
 	font-size: 0.4em;
-	margin-top: 4%;
+	margin-top: 2%;
 	border-top: 3px solid rgba(128,98,26,1.00);
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
 	clear: both;
-	padding-bottom: 15px;
+	padding-bottom: 10px;
 }
 
+/*This section to style text in the footer*/
+.text {
+	margin: 2px;
+}
 
+.color {
+	color: rgba(233,30,99,1);
+}
 /* =============================================
 	Tablet layout styles used by devices
 	481px to 768px and cascaded to larger 

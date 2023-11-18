@@ -39,7 +39,7 @@ body {
 	min-height: 100%;
 }
 ul {
-  border: 1px solid #ccc;
+  border: 3px solid rgba(128,98,26,1.00);
   border-width: 1px 0;
   list-style-type: none;
   text-align: center;

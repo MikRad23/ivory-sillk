@@ -103,6 +103,13 @@ footer {
 .color {
 	color: rgba(233,30,99,1);
 }
+img.imgFac {
+	width: 5%;
+}
+
+img.imgInst {
+	width: 5%;
+}
 /* =============================================
 	Tablet layout styles used by devices
 	481px to 768px and cascaded to larger 

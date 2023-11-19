@@ -133,7 +133,7 @@ nav ul li a:hover {
 	color: white;
 }
 nav ul li a:focus {
-	outline: none;
+	outline: thin dotted;
 }
 nav ul li a:hover, nav ul li a:active {
 	outline: 0;

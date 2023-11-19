@@ -238,7 +238,7 @@ blockquote p:first-of-type:before {
   float: left;
 }
 
-
+}
 /* =============================================
 	Desktop layout styles used by  devices
 	769px and larger.
@@ -260,8 +260,6 @@ body {
 	float: none;
 	margin-left: auto;
 	background-color: white;
-	-moz-box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px;
-	-webkit-box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px;
 	box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px
 }
 footer {

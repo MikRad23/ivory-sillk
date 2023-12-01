@@ -225,7 +225,7 @@ input:focus, select:focus, textarea:focus {
 
 img.Radloff {
 	position: absolute;
-    	top: 23.45%;
+    	top: 30.45%;
     	left: 30.25%;
 	width: 15%;
 	border-radius: 10px;
@@ -247,7 +247,7 @@ table, th, td {
 .bottom { 
   position: absolute; 
   bottom: 0px;  
-  top: 74.75%;
+  top: 76.75%;
 }
 
 footer {
